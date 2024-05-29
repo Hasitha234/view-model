@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button2">Open MainActivity</string>
+    <string name="button3">Call</string>
+    <string name="button4">SMS</string>
+    <string name="button5">Web Browser</string>
+    <string name="button6">Email</string>
+    <string name="button7">Camera</string>
+    <string name="imageView">ImageView</string>
+</resources>
